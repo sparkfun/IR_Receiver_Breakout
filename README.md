@@ -19,8 +19,24 @@ Documentation
 * **[IR Communication](https://learn.sparkfun.com/tutorials/ir-communication)** - General tutorial for IR communication.
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/ir-control-kit-hookup-guide)** - Basic hookup guide for the IR Control Kit
 
-License Information
+Hardware License Information
 -------------------
-The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+
+This product is _**open source**_! 
+
+Please review the LICENSE.md file for hardware license information. 
+  
+Software License Information
+-------------------
+
+The example code is derived from the Arduino IRremote library.
+
+Please review Arduino IRremote [LICENSE.md file](https://github.com/z3t0/Arduino-IRremote/blob/master/LICENSE.txt) for license information. 
+
+If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
 
 Distributed as-is; no warranty is given.
+
+- Your friends at SparkFun.
+
+_<COLLABORATION CREDIT>_
